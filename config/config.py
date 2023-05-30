@@ -40,10 +40,10 @@ CHANNEL_SUDO = getenv(
     "CHANNEL_SUDO", "https://t.me/FH_KP"
 )  # قناة السورس هيك https://t.me/M_O_D_Y_CH
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/KB_HE"
+    "SUPPORT_CHANNEL", "https://t.me/FH_KP"
 )  #جروب السورس https://t.me/BarGohara
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/FH_KP"
+    "SUPPORT_GROUP", "https://t.me/KB_HE"
 ) 
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
